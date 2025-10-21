@@ -6,6 +6,6 @@
 
 This little cozy platformer was made for Patch Notes Jam
 
-WASD - movement
-SPACE - jump
+WASD - movement <br>
+SPACE - jump <br>
 SPACE + SPACE + SPACE + .... - ?????
