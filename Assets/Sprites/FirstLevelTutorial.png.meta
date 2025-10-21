@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 99cc45852bb74a54fb14b50f25bdaadb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4688725342628885981
+    second: FirstLevelTutorial_0
+  - first:
+      213: -4235488679718934406
+    second: FirstLevelTutorial_1
+  - first:
+      213: -5545871896264790166
+    second: FirstLevelTutorial_2
+  - first:
+      213: -7335402024991032015
+    second: FirstLevelTutorial_3
+  - first:
+      213: 8360167523921537201
+    second: FirstLevelTutorial_4
+  - first:
+      213: -6366955987239486784
+    second: FirstLevelTutorial_5
+  - first:
+      213: -7861562634535373799
+    second: FirstLevelTutorial_6
+  - first:
+      213: 5554651713332510388
+    second: FirstLevelTutorial_7
+  - first:
+      213: -3158547393924412708
+    second: FirstLevelTutorial_8
+  - first:
+      213: -8088772647439587091
+    second: FirstLevelTutorial_9
+  - first:
+      213: -6332373891204142168
+    second: FirstLevelTutorial_10
+  - first:
+      213: 6542769420810729031
+    second: FirstLevelTutorial_11
+  - first:
+      213: -802424706548052315
+    second: FirstLevelTutorial_12
+  - first:
+      213: -8354221067037354121
+    second: FirstLevelTutorial_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FirstLevelTutorial_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3045
+        width: 128
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32acb3f842d4eeeb0800000000000000
+      internalID: -4688725342628885981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLevelTutorial_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2865
+        width: 485
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a782a238c758835c0800000000000000
+      internalID: -4235488679718934406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLevelTutorial_2
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 3052
+        width: 122
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fa055c4ea1903b0800000000000000
+      internalID: -5545871896264790166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLevelTutorial_3
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2926
+        width: 430
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d7abf09ba633a90800000000000000
+      internalID: -7335402024991032015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLevelTutorial_4
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2730
+        width: 14
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8a916a118450470800000000000000
+      internalID: 8360167523921537201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLevelTutorial_5
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 2901
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca3b00634704a7a0800000000000000
+      internalID: -6366955987239486784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLevelTutorial_6
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2804
+        width: 22
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914f80daf6e16e290800000000000000
+      internalID: -7861562634535373799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLevelTutorial_7
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2829
+        width: 14
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bef230bd46161d40800000000000000
+      internalID: 5554651713332510388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLevelTutorial_8
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 2741
+        width: 28
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda46e241e59a24d0800000000000000
+      internalID: -3158547393924412708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLevelTutorial_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2586
+        width: 211
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8a7702228eebf80800000000000000
+      internalID: -8088772647439587091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLevelTutorial_10
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2580
+        width: 211
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aba1dd0f73ee18a0800000000000000
+      internalID: -6332373891204142168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLevelTutorial_11
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 2675
+        width: 15
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74636b68f169cca50800000000000000
+      internalID: 6542769420810729031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLevelTutorial_12
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2725
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aec4371bf63dd4f0800000000000000
+      internalID: -802424706548052315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstLevelTutorial_13
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 2414
+        width: 711
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777572cb338df0c80800000000000000
+      internalID: -8354221067037354121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FirstLevelTutorial_0: -4688725342628885981
+      FirstLevelTutorial_1: -4235488679718934406
+      FirstLevelTutorial_10: -6332373891204142168
+      FirstLevelTutorial_11: 6542769420810729031
+      FirstLevelTutorial_12: -802424706548052315
+      FirstLevelTutorial_13: -8354221067037354121
+      FirstLevelTutorial_2: -5545871896264790166
+      FirstLevelTutorial_3: -7335402024991032015
+      FirstLevelTutorial_4: 8360167523921537201
+      FirstLevelTutorial_5: -6366955987239486784
+      FirstLevelTutorial_6: -7861562634535373799
+      FirstLevelTutorial_7: 5554651713332510388
+      FirstLevelTutorial_8: -3158547393924412708
+      FirstLevelTutorial_9: -8088772647439587091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
